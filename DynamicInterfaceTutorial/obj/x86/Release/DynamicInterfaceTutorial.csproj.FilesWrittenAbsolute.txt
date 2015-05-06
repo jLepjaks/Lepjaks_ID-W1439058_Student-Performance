@@ -1,0 +1,8 @@
+/Users/Jurijs/Google Drive/DynamicInterfaceTutorial/DynamicInterfaceTutorial/obj/x86/Release/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/Users/Jurijs/Google Drive/DynamicInterfaceTutorial/DynamicInterfaceTutorial/obj/x86/Release/PerformancePrediction.FormMain.resources
+/Users/Jurijs/Google Drive/DynamicInterfaceTutorial/DynamicInterfaceTutorial/obj/x86/Release/PerformancePrediction.Properties.Resources.resources
+/Users/Jurijs/Google Drive/DynamicInterfaceTutorial/DynamicInterfaceTutorial/obj/x86/Release/PerformancePrediction.RadioButtons.resources
+/Users/Jurijs/Google Drive/DynamicInterfaceTutorial/DynamicInterfaceTutorial/bin/Release/DynamicInterfaceTutorial.exe.mdb
+/Users/Jurijs/Google Drive/DynamicInterfaceTutorial/DynamicInterfaceTutorial/bin/Release/DynamicInterfaceTutorial.exe
+/Users/Jurijs/Google Drive/DynamicInterfaceTutorial/DynamicInterfaceTutorial/obj/x86/Release/DynamicInterfaceTutorial.exe
+/Users/Jurijs/Google Drive/DynamicInterfaceTutorial/DynamicInterfaceTutorial/obj/x86/Release/DynamicInterfaceTutorial.exe.mdb

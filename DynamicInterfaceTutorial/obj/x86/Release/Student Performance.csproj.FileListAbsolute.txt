@@ -1,0 +1,7 @@
+C:\Users\jurijs\Desktop\Student Performance\DynamicInterfaceTutorial\bin\Release\PerformancePrediction.exe
+C:\Users\jurijs\Desktop\Student Performance\DynamicInterfaceTutorial\bin\Release\PerformancePrediction.pdb
+C:\Users\jurijs\Desktop\Student Performance\DynamicInterfaceTutorial\obj\x86\Release\PerformancePrediction.FormMain.resources
+C:\Users\jurijs\Desktop\Student Performance\DynamicInterfaceTutorial\obj\x86\Release\PerformancePrediction.Properties.Resources.resources
+C:\Users\jurijs\Desktop\Student Performance\DynamicInterfaceTutorial\obj\x86\Release\Student Performance.csproj.GenerateResource.Cache
+C:\Users\jurijs\Desktop\Student Performance\DynamicInterfaceTutorial\obj\x86\Release\PerformancePrediction.exe
+C:\Users\jurijs\Desktop\Student Performance\DynamicInterfaceTutorial\obj\x86\Release\PerformancePrediction.pdb

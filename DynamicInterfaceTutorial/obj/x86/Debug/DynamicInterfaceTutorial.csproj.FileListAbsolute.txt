@@ -1,0 +1,37 @@
+C:\Users\Philip Trwoga\Desktop\Visual Studio Projects\DynamicInterfaceTutorial\DynamicInterfaceTutorial\bin\Debug\DynamicInterfaceTutorial.exe
+C:\Users\Philip Trwoga\Desktop\Visual Studio Projects\DynamicInterfaceTutorial\DynamicInterfaceTutorial\bin\Debug\DynamicInterfaceTutorial.pdb
+C:\Users\Philip Trwoga\Desktop\Visual Studio Projects\DynamicInterfaceTutorial\DynamicInterfaceTutorial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Philip Trwoga\Desktop\Visual Studio Projects\DynamicInterfaceTutorial\DynamicInterfaceTutorial\obj\x86\Debug\DynamicInterfaceTutorial.FormMain.resources
+C:\Users\Philip Trwoga\Desktop\Visual Studio Projects\DynamicInterfaceTutorial\DynamicInterfaceTutorial\obj\x86\Debug\DynamicInterfaceTutorial.Properties.Resources.resources
+C:\Users\Philip Trwoga\Desktop\Visual Studio Projects\DynamicInterfaceTutorial\DynamicInterfaceTutorial\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Philip Trwoga\Desktop\Visual Studio Projects\DynamicInterfaceTutorial\DynamicInterfaceTutorial\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Philip Trwoga\Desktop\Visual Studio Projects\DynamicInterfaceTutorial\DynamicInterfaceTutorial\obj\x86\Debug\DynamicInterfaceTutorial.exe
+C:\Users\Philip Trwoga\Desktop\Visual Studio Projects\DynamicInterfaceTutorial\DynamicInterfaceTutorial\obj\x86\Debug\DynamicInterfaceTutorial.pdb
+C:\Users\Philip Trwoga\Desktop\Visual Studio Projects\DynamicInterfaceTutorial\DynamicInterfaceTutorial\obj\x86\Debug\DynamicInterfaceTutorial.RadioButtons.resources
+C:\Users\Philip Trwoga\Desktop\Visual Studio Projects\DynamicInterfaceTutorial_solwithbuttons\DynamicInterfaceTutorial\DynamicInterfaceTutorial\obj\x86\Debug\DynamicInterfaceTutorial.exe
+C:\Users\Philip Trwoga\Desktop\Visual Studio Projects\DynamicInterfaceTutorial_solwithbuttons\DynamicInterfaceTutorial\DynamicInterfaceTutorial\obj\x86\Debug\DynamicInterfaceTutorial.pdb
+C:\Users\Philip Trwoga\Desktop\Visual Studio Projects\DynamicInterfaceTutorial_solwithbuttons\DynamicInterfaceTutorial\DynamicInterfaceTutorial\bin\Debug\DynamicInterfaceTutorial.exe
+C:\Users\Philip Trwoga\Desktop\Visual Studio Projects\DynamicInterfaceTutorial_solwithbuttons\DynamicInterfaceTutorial\DynamicInterfaceTutorial\bin\Debug\DynamicInterfaceTutorial.pdb
+C:\Users\Philip Trwoga\Desktop\Visual Studio Projects\DynamicInterfaceTutorial_solwithbuttons\DynamicInterfaceTutorial\DynamicInterfaceTutorial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Philip Trwoga\Desktop\Visual Studio Projects\DynamicInterfaceTutorial_solwithbuttons\DynamicInterfaceTutorial\DynamicInterfaceTutorial\obj\x86\Debug\DynamicInterfaceTutorial.FormMain.resources
+C:\Users\Philip Trwoga\Desktop\Visual Studio Projects\DynamicInterfaceTutorial_solwithbuttons\DynamicInterfaceTutorial\DynamicInterfaceTutorial\obj\x86\Debug\DynamicInterfaceTutorial.Properties.Resources.resources
+C:\Users\Philip Trwoga\Desktop\Visual Studio Projects\DynamicInterfaceTutorial_solwithbuttons\DynamicInterfaceTutorial\DynamicInterfaceTutorial\obj\x86\Debug\DynamicInterfaceTutorial.RadioButtons.resources
+C:\Users\Philip Trwoga\Desktop\Visual Studio Projects\DynamicInterfaceTutorial_solwithbuttons\DynamicInterfaceTutorial\DynamicInterfaceTutorial\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Philip Trwoga\Desktop\Visual Studio Projects\DynamicInterfaceTutorial_solwithbuttons\DynamicInterfaceTutorial\DynamicInterfaceTutorial\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\w1439058\Downloads\DynamicInterfaceTutorial\DynamicInterfaceTutorial\obj\x86\Debug\DynamicInterfaceTutorial.exe
+C:\Users\w1439058\Downloads\DynamicInterfaceTutorial\DynamicInterfaceTutorial\obj\x86\Debug\DynamicInterfaceTutorial.pdb
+C:\Users\w1439058\Downloads\DynamicInterfaceTutorial\DynamicInterfaceTutorial\bin\Debug\DynamicInterfaceTutorial.exe
+C:\Users\w1439058\Downloads\DynamicInterfaceTutorial\DynamicInterfaceTutorial\bin\Debug\DynamicInterfaceTutorial.pdb
+C:\Users\w1439058\Downloads\DynamicInterfaceTutorial\DynamicInterfaceTutorial\obj\x86\Debug\DynamicInterfaceTutorial.csprojResolveAssemblyReference.cache
+C:\Users\w1439058\Downloads\DynamicInterfaceTutorial\DynamicInterfaceTutorial\obj\x86\Debug\DynamicInterfaceTutorial.csproj.GenerateResource.Cache
+C:\Users\w1439058\Downloads\DynamicInterfaceTutorial\DynamicInterfaceTutorial\obj\x86\Debug\PerformancePrediction.FormMain.resources
+C:\Users\w1439058\Downloads\DynamicInterfaceTutorial\DynamicInterfaceTutorial\obj\x86\Debug\PerformancePrediction.Properties.Resources.resources
+C:\Users\w1439058\Downloads\DynamicInterfaceTutorial\DynamicInterfaceTutorial\obj\x86\Debug\PerformancePrediction.RadioButtons.resources
+H:\DynamicInterfaceTutorial\DynamicInterfaceTutorial\obj\x86\Debug\DynamicInterfaceTutorial.csprojResolveAssemblyReference.cache
+H:\DynamicInterfaceTutorial\DynamicInterfaceTutorial\obj\x86\Debug\PerformancePrediction.FormMain.resources
+H:\DynamicInterfaceTutorial\DynamicInterfaceTutorial\obj\x86\Debug\PerformancePrediction.Properties.Resources.resources
+H:\DynamicInterfaceTutorial\DynamicInterfaceTutorial\obj\x86\Debug\DynamicInterfaceTutorial.csproj.GenerateResource.Cache
+H:\DynamicInterfaceTutorial\DynamicInterfaceTutorial\bin\Debug\PerformancePrediction.exe
+H:\DynamicInterfaceTutorial\DynamicInterfaceTutorial\bin\Debug\PerformancePrediction.pdb
+H:\DynamicInterfaceTutorial\DynamicInterfaceTutorial\obj\x86\Debug\PerformancePrediction.exe
+H:\DynamicInterfaceTutorial\DynamicInterfaceTutorial\obj\x86\Debug\PerformancePrediction.pdb

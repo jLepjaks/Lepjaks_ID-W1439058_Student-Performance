@@ -1,0 +1,62 @@
+H:\DynamicInterfaceTutorial\DynamicInterfaceTutorial\bin\Debug\PerformancePrediction.exe
+H:\DynamicInterfaceTutorial\DynamicInterfaceTutorial\bin\Debug\PerformancePrediction.pdb
+H:\DynamicInterfaceTutorial\DynamicInterfaceTutorial\obj\x86\Debug\Student Performance.csprojResolveAssemblyReference.cache
+H:\DynamicInterfaceTutorial\DynamicInterfaceTutorial\obj\x86\Debug\PerformancePrediction.FormMain.resources
+H:\DynamicInterfaceTutorial\DynamicInterfaceTutorial\obj\x86\Debug\PerformancePrediction.Properties.Resources.resources
+H:\DynamicInterfaceTutorial\DynamicInterfaceTutorial\obj\x86\Debug\Student Performance.csproj.GenerateResource.Cache
+H:\DynamicInterfaceTutorial\DynamicInterfaceTutorial\obj\x86\Debug\PerformancePrediction.exe
+H:\DynamicInterfaceTutorial\DynamicInterfaceTutorial\obj\x86\Debug\PerformancePrediction.pdb
+H:\Student Performance\DynamicInterfaceTutorial\obj\x86\Debug\PerformancePrediction.exe
+H:\Student Performance\DynamicInterfaceTutorial\obj\x86\Debug\PerformancePrediction.pdb
+H:\Student Performance\DynamicInterfaceTutorial\bin\Debug\PerformancePrediction.exe
+H:\Student Performance\DynamicInterfaceTutorial\bin\Debug\PerformancePrediction.pdb
+H:\Student Performance\DynamicInterfaceTutorial\obj\x86\Debug\Student Performance.csprojResolveAssemblyReference.cache
+H:\Student Performance\DynamicInterfaceTutorial\obj\x86\Debug\PerformancePrediction.FormMain.resources
+H:\Student Performance\DynamicInterfaceTutorial\obj\x86\Debug\PerformancePrediction.Properties.Resources.resources
+H:\Student Performance\DynamicInterfaceTutorial\obj\x86\Debug\Student Performance.csproj.GenerateResource.Cache
+C:\Users\jurijs\Desktop\Student Performance\DynamicInterfaceTutorial\obj\x86\Debug\PerformancePrediction.exe
+C:\Users\jurijs\Desktop\Student Performance\DynamicInterfaceTutorial\obj\x86\Debug\PerformancePrediction.pdb
+C:\Users\jurijs\Desktop\Student Performance\DynamicInterfaceTutorial\bin\Debug\PerformancePrediction.exe
+C:\Users\jurijs\Desktop\Student Performance\DynamicInterfaceTutorial\bin\Debug\PerformancePrediction.pdb
+C:\Users\jurijs\Desktop\Student Performance\DynamicInterfaceTutorial\obj\x86\Debug\Student Performance.csprojResolveAssemblyReference.cache
+C:\Users\jurijs\Desktop\Student Performance\DynamicInterfaceTutorial\obj\x86\Debug\PerformancePrediction.FormMain.resources
+C:\Users\jurijs\Desktop\Student Performance\DynamicInterfaceTutorial\obj\x86\Debug\PerformancePrediction.Properties.Resources.resources
+C:\Users\jurijs\Desktop\Student Performance\DynamicInterfaceTutorial\obj\x86\Debug\Student Performance.csproj.GenerateResource.Cache
+H:\Student Performance\DynamicInterfaceTutorial\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+H:\Student Performance\DynamicInterfaceTutorial\obj\x86\Debug\Student Performance.csprojFakesResolveAssemblyReference.cache
+C:\Users\jurijs\Desktop\Student Performance v2\DynamicInterfaceTutorial\obj\x86\Debug\PerformancePrediction.exe
+C:\Users\jurijs\Desktop\Student Performance v2\DynamicInterfaceTutorial\obj\x86\Debug\PerformancePrediction.pdb
+C:\Users\jurijs\Desktop\Student Performance v2\DynamicInterfaceTutorial\bin\Debug\PerformancePrediction.exe
+C:\Users\jurijs\Desktop\Student Performance v2\DynamicInterfaceTutorial\bin\Debug\PerformancePrediction.pdb
+C:\Users\jurijs\Desktop\Student Performance v2\DynamicInterfaceTutorial\obj\x86\Debug\Student Performance.csprojResolveAssemblyReference.cache
+C:\Users\jurijs\Desktop\Student Performance v2\DynamicInterfaceTutorial\obj\x86\Debug\PerformancePrediction.FormMain.resources
+C:\Users\jurijs\Desktop\Student Performance v2\DynamicInterfaceTutorial\obj\x86\Debug\PerformancePrediction.Properties.Resources.resources
+C:\Users\jurijs\Desktop\Student Performance v2\DynamicInterfaceTutorial\obj\x86\Debug\Student Performance.csproj.GenerateResource.Cache
+H:\Student Performance v3\DynamicInterfaceTutorial\obj\x86\Debug\PerformancePrediction.exe
+H:\Student Performance v3\DynamicInterfaceTutorial\obj\x86\Debug\PerformancePrediction.pdb
+H:\Student Performance v3\DynamicInterfaceTutorial\bin\Debug\PerformancePrediction.exe
+H:\Student Performance v3\DynamicInterfaceTutorial\bin\Debug\PerformancePrediction.pdb
+H:\Student Performance v3\DynamicInterfaceTutorial\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+H:\Student Performance v3\DynamicInterfaceTutorial\obj\x86\Debug\Student Performance.csprojFakesResolveAssemblyReference.cache
+H:\Student Performance v3\DynamicInterfaceTutorial\obj\x86\Debug\Student Performance.csprojResolveAssemblyReference.cache
+H:\Student Performance v3\DynamicInterfaceTutorial\obj\x86\Debug\PerformancePrediction.FormMain.resources
+H:\Student Performance v3\DynamicInterfaceTutorial\obj\x86\Debug\PerformancePrediction.Properties.Resources.resources
+H:\Student Performance v3\DynamicInterfaceTutorial\obj\x86\Debug\Student Performance.csproj.GenerateResource.Cache
+H:\Lepjaks_ID-W1439058_Student Performance\DynamicInterfaceTutorial\obj\x86\Debug\PerformancePrediction.exe
+H:\Lepjaks_ID-W1439058_Student Performance\DynamicInterfaceTutorial\obj\x86\Debug\PerformancePrediction.pdb
+H:\Lepjaks_ID-W1439058_Student Performance\DynamicInterfaceTutorial\bin\Debug\PerformancePrediction.exe
+H:\Lepjaks_ID-W1439058_Student Performance\DynamicInterfaceTutorial\bin\Debug\PerformancePrediction.pdb
+H:\Lepjaks_ID-W1439058_Student Performance\DynamicInterfaceTutorial\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+H:\Lepjaks_ID-W1439058_Student Performance\DynamicInterfaceTutorial\obj\x86\Debug\Student Performance.csprojFakesResolveAssemblyReference.cache
+H:\Lepjaks_ID-W1439058_Student Performance\DynamicInterfaceTutorial\obj\x86\Debug\Student Performance.csprojResolveAssemblyReference.cache
+H:\Lepjaks_ID-W1439058_Student Performance\DynamicInterfaceTutorial\obj\x86\Debug\PerformancePrediction.FormMain.resources
+H:\Lepjaks_ID-W1439058_Student Performance\DynamicInterfaceTutorial\obj\x86\Debug\PerformancePrediction.Properties.Resources.resources
+H:\Lepjaks_ID-W1439058_Student Performance\DynamicInterfaceTutorial\obj\x86\Debug\Student Performance.csproj.GenerateResource.Cache
+C:\Users\jurijs\Downloads\Lepjaks_ID-W1439058_Student Performance\DynamicInterfaceTutorial\obj\x86\Debug\PerformancePrediction.exe
+C:\Users\jurijs\Downloads\Lepjaks_ID-W1439058_Student Performance\DynamicInterfaceTutorial\obj\x86\Debug\PerformancePrediction.pdb
+C:\Users\jurijs\Downloads\Lepjaks_ID-W1439058_Student Performance\DynamicInterfaceTutorial\bin\Debug\PerformancePrediction.exe
+C:\Users\jurijs\Downloads\Lepjaks_ID-W1439058_Student Performance\DynamicInterfaceTutorial\bin\Debug\PerformancePrediction.pdb
+C:\Users\jurijs\Downloads\Lepjaks_ID-W1439058_Student Performance\DynamicInterfaceTutorial\obj\x86\Debug\Student Performance.csprojResolveAssemblyReference.cache
+C:\Users\jurijs\Downloads\Lepjaks_ID-W1439058_Student Performance\DynamicInterfaceTutorial\obj\x86\Debug\PerformancePrediction.FormMain.resources
+C:\Users\jurijs\Downloads\Lepjaks_ID-W1439058_Student Performance\DynamicInterfaceTutorial\obj\x86\Debug\PerformancePrediction.Properties.Resources.resources
+C:\Users\jurijs\Downloads\Lepjaks_ID-W1439058_Student Performance\DynamicInterfaceTutorial\obj\x86\Debug\Student Performance.csproj.GenerateResource.Cache

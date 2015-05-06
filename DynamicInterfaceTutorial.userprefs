@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="DynamicInterfaceTutorial/DynamicInterfaceTutorial.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DynamicInterfaceTutorial/Form1.Designer.cs">
+    <Files>
+      <File FileName="DynamicInterfaceTutorial/Form1.cs" Line="71" Column="90" />
+      <File FileName="DynamicInterfaceTutorial/Form1.Designer.cs" Line="49" Column="61" />
+      <File FileName="DynamicInterfaceTutorial/Program.cs" Line="1" Column="1" />
+      <File FileName="DynamicInterfaceTutorial/Form1.resx" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
